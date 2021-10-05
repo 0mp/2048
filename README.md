@@ -33,3 +33,9 @@ Run `2048-py` to play the game.
 On Arch Linux, get the `2048-py` package from the AUR.
 
 Run `2048-py` to play the game.
+
+### Get it from the FreeBSD package repository
+
+On FreeBSD, install `2048-py` with `pkg install -g py*-2048-py`.
+
+Run `2048-py` to play the game.
